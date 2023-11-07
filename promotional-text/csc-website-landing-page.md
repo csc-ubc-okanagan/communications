@@ -12,17 +12,19 @@ Need help with Research Data Management plans or data deposit? Email csc.ok@ubc.
 
 ## When to book an appointment
 
+There are three times we suggest you book an appointment.
+
 ### Plan
 
-This is the best time to book an appointment; the questions you can ask of your data and the analyses you can perform are contingent on the data you plan to collect and the collection methods you use. Make sure the questions you plan to address and the analyses you intend to conduct align with your data collection plan. [Connect with a data consultant](https://my.qreserve.com/site/8q0fm22f4c8clopsqpvjeit0e1o7gcvqx8r11).
+This is the best time to book an appointment; the questions you can ask and the analyses you can perform are contingent on the data you plan to collect and the collection methods you use. Make sure the questions you plan to address and the analyses you intend to conduct align with your data collection plan. [Connect with a data consultant](https://my.qreserve.com/site/8q0fm22f4c8clopsqpvjeit0e1o7gcvqx8r11).
 
 ### Collect
 
-Whether "in the field" for you means conducting a survey, gathering previously collected data, or counting observations in a literal field, things often diverge from the original plan. This doesn't mean all is lost. Find out if there's a way to address unanticipated  chagnes to your data collection protocol that still allow you to address your research question. [Talk with a data consultant](https://my.qreserve.com/site/8q0fm22f4c8clopsqpvjeit0e1o7gcvqx8r11).
+Whether "in the field" for you means conducting a survey, gathering previously collected data, or counting observations in a literal field, things often diverge from the original plan. This doesn't mean all is lost. Find out if there's a way to address unanticipated  changes to your data collection protocol that still allow you to address your research question. [Talk with a data consultant](https://my.qreserve.com/site/8q0fm22f4c8clopsqpvjeit0e1o7gcvqx8r11).
 
 ### Analyze
 
-Struggling to clean, organize, or re-structure your data? Or maybe you need a helping hand interpreting the results of a particular anlyses? [Our data consultants can help with that](https://my.qreserve.com/site/8q0fm22f4c8clopsqpvjeit0e1o7gcvqx8r11).
+Struggling to clean, organize, or re-structure your data? Or maybe you need a helping hand interpreting or visualizing results? [Our data consultants can help with that](https://my.qreserve.com/site/8q0fm22f4c8clopsqpvjeit0e1o7gcvqx8r11).
 
 ## Drop-in for a chat
 
