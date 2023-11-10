@@ -4,12 +4,6 @@
 
 Staff at the CSC's Research Data Hub are here to help you wrangle your research data. Get **support** with data **cleaning**, **modelling**, statistical **analyses**, and data **visualization**. Specializingin **R** and **Python**, we offer one-on-one consultations to address research data related questions throughout the research life cycle.
 
-Check out our blog for tutorials: https://csc-ubc-okanagan.github.io/R-Python-Blog/
-
-Learn the basics of data wrangling and data management with one of our workshops: https://csc-ubc-okanagan.github.io/workshops/
-
-Need help with Research Data Management plans or data deposit? Email csc.ok@ubc.ca
-
 ## When to book an appointment
 
 There are three times we suggest you book an appointment.
@@ -41,6 +35,14 @@ We use the QReserve booking system for appointment booking. If you are new to th
 View our schedule, details of supports, and book an appointment.
 
 Researchers may choose to contact csc.ok@ubc.ca as an alternative to booking via QReserve.
+
+## Additional Resources
+
+Check out our blog for tutorials: https://csc-ubc-okanagan.github.io/R-Python-Blog/
+
+Learn the basics of data wrangling and data management with one of our workshops: https://csc-ubc-okanagan.github.io/workshops/
+
+Need help with Research Data Management plans or data deposit? Email csc.ok@ubc.ca
 
 ## Questions
 
