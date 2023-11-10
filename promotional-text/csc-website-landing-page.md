@@ -2,7 +2,7 @@
 
 # Research Data Consultations
 
-Staff at the CSC's Research Data Hub are here to help you wrangle your research data. Get support with data cleaning, modelling, statistical analyses, and data visualization. Specializingin R and Python, we offer one-on-one consultations to address research data related questions throughout the research life cycle.
+Staff at the CSC's Research Data Hub are here to help you wrangle your research data. Get **support** with data **cleaning**, **modelling**, statistical **analyses**, and data **visualization**. Specializingin **R** and **Python**, we offer one-on-one consultations to address research data related questions throughout the research life cycle.
 
 Check out our blog for tutorials: https://csc-ubc-okanagan.github.io/R-Python-Blog/
 
